@@ -1,0 +1,2 @@
+# statistical_consulting
+Statistical consulting assignment
